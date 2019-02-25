@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 94, 0);
+    color: rgb(50, 205, 159);
+    font-family: 'sofia';
+}
+
+h1{
+    color: rgb(24, 4, 4);
+    font-family: 'bonbon';
+    font-size: 45px;
+}
+
+img {
+   
+    width: 300px;
+    height: 200px;
+  } 
+
+  
+img {
+   
+    width: 300px;
+    height: 200px;
+  } 
+  a{
+      color: rgb(189, 162, 238);
+      font-size: 30px;
+     
+  }
+
+  h2{
+      font-family: 'bonbon';
+    color: blueviolet;
+      font-size: 30px;
+  }
+
+  p{
+      font-size: 30px;
+     
+  }
